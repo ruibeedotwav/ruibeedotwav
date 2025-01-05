@@ -31,3 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/xcode/xcode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruibeedotwav&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
