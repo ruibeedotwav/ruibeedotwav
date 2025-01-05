@@ -1,11 +1,9 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/qjEyBZ7.gif" width="400"/>
-</div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/ruibee.wav/">
     <img src="https://img.shields.io/badge/Instagram-gray?logo=instagram&logocolor=black&style=for-the-badge" alt="Instagram Badge" width="130"/>
-  </a>
-  <a href="https://t.me/ruibeedotwav">
+  </a><a href="https://t.me/ruibeedotwav">
     <img src="https://img.shields.io/badge/Telegram-gray?logo=telegram&logocolor=black&style=for-the-badge" alt="Telegram Badge" width="120"/>
   </a>
 </div>
